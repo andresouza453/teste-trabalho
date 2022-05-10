@@ -1,0 +1,15 @@
+Café gelado,cookie
+Café quente,cookie,água
+Café quente,bolo,água
+Café quente,cookie
+Café quente,bolo
+Café quente
+Café gelado,brownie
+Café gelado
+Café quente
+Café quente,bolo,água
+Café quente,bolo
+Café gelado,brownie
+Café quente,cookie
+Café quente,bolo
+Café quente,bolo,água
